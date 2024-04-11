@@ -1,1 +1,1 @@
-This is a tutorial on Git sample showcase.
+This is a tutorial on Git sample class
